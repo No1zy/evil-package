@@ -9,7 +9,7 @@
     "node": "echo node is hacked"
   },
   "dependencies": {
-    "../index.js": "../../../../../../../../etc/passwd;echo hoge;"
+    "evil/../../index.js": "../../../../../../../../etc/passwd;echo hoge;"
   },
   "repository": {
     "type": "git",
