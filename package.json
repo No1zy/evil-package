@@ -1,4 +1,7 @@
 {
+  "__proto__":{
+    "toString":null
+  },
   "name": "evil-package",
   "version": "1.0.0",
   "description": "security test",
