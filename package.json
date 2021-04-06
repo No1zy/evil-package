@@ -4,12 +4,12 @@
   "description": "security test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo test is hacked",
     "npm": "echo npm is hacked",
     "node": "echo node is hacked"
   },
   "dependencies": {
-    "evil": "javascript:console.log('hacked')//../../../../../etc/passwd"
+    "evil": "git+https://github.com/No1zy/aaa"
   },
   "repository": {
     "type": "git",
