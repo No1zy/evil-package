@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "npm": "echo npm is hacked",
+    "node": "echo node is hacked"
   },
   "dependencies": {
     "evil": "../../../../../../../../etc/passwd"
