@@ -4,9 +4,9 @@
   "description": "security test",
   "main": "index.js",
   "scripts": {
-    "test": "echo test is hacked",
-    "npm": "echo npm is hacked",
-    "node": "echo node is hacked",
+    "test": "echo test",
+    "npm": "echo npm",
+    "node": "echo node",
     "preinstall":"echo EVIL PACKAGE PREINSTALL"
   },
   "dependencies": {
