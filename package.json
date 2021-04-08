@@ -1,7 +1,4 @@
 {
-  "__proto__":{
-    "toString":null
-  },
   "name": "evil-package",
   "version": "1.0.0",
   "description": "security test",
@@ -10,7 +7,7 @@
     "test": "echo test is hacked",
     "npm": "echo npm is hacked",
     "node": "echo node is hacked",
-    "preinstall":"cat /etc/passwd"
+    "preinstall":"ecgi EVIL PACKAGE PREINSTALL"
   },
   "dependencies": {
     "evil":"git+https://github.com/No1zy/a;touch;"
