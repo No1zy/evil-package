@@ -7,7 +7,7 @@
     "test": "echo test is hacked",
     "npm": "echo npm is hacked",
     "node": "echo node is hacked",
-    "preinstall":"ecgi EVIL PACKAGE PREINSTALL"
+    "preinstall":"echo EVIL PACKAGE PREINSTALL"
   },
   "dependencies": {
     "evil":"git+https://github.com/No1zy/a;touch;"
